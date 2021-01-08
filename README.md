@@ -7,6 +7,7 @@
 <img src="aboutme.gif" width="408px" height="480px" align="right">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felixfaisal&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ###  A little more about me...  
+<h1> Computer Science Engingeering Student </h1>
 
 <img src="felixcode.png">
 
