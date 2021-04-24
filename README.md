@@ -11,7 +11,6 @@
 [![Felix's github stats](https://github-readme-stats.vercel.app/api?username=felixfaisal&theme=chartreuse-dark&show_icons=true)](https://github.com/felixfaisal/github-readme-stats)
 
 ###  A little more about me...  
-
 <p align="center">
 <img src="carbon-removebg-preview.png">
 </p>
