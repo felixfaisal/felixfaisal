@@ -9,10 +9,11 @@
 <img src="aboutme.gif" width="204px" height="240px" align="right">
 
 [![Felix's github stats](https://github-readme-stats.vercel.app/api?username=felixfaisal&theme=chartreuse-dark&show_icons=true)](https://github.com/felixfaisal/github-readme-stats)
+
 ###  A little more about me...  
 
+<p align="center">
+<img src="carbon-removebg-preview.png">
+</p>
 
-<img src="felixcode.png">
-
----
 
