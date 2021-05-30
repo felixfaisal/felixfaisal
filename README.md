@@ -10,8 +10,6 @@
 
 ![image](https://user-images.githubusercontent.com/42486737/120118004-e0cd8380-c1ad-11eb-912f-f2b8425ba367.png)
 
-
-
 <p align="center">
-<img src="https://user-images.githubusercontent.com/42486737/120118768-d4e3c080-c1b1-11eb-9fd2-e6cefb682a97.png">
+<img src="https://user-images.githubusercontent.com/42486737/120119029-1759cd00-c1b3-11eb-99ec-6026c818134c.png">
 </p>
