@@ -12,6 +12,6 @@
 
 ![Activity](https://activity-graph.herokuapp.com/graph?username=felixfaisal&bg_color=000000&color=FFFFFF&line=00D200&point=458862)
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=felixfaisal&theme=dark" align="left" width="440px">
-<img src="https://github-readme-stats.vercel.app/api?username=felixfaisal&show_icons=true&theme=dark" align="right" width="440px">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=felixfaisal&theme=dark" align="left" width="400px">
+<img src="https://github-readme-stats.vercel.app/api?username=felixfaisal&show_icons=true&theme=dark" align="right" width="400px">
 </p>
