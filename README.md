@@ -17,5 +17,5 @@
 
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixfaisal&theme=dark" align="left" width="400px">
-<img src="https://github-readme-stats.vercel.app/api?username=felixfaisal&show_icons=true&theme=dark" align="right" width="500px">
+<img src="https://github-readme-stats.vercel.app/api?username=felixfaisal&show_icons=true&theme=dark" align="right" width="400px">
 </p>
