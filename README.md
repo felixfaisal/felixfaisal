@@ -10,12 +10,3 @@
   <img src="https://img.shields.io/static/v1?label=MLH%20Fellow&message=2021%20spring&color=yellow&style=for-the-badge">
   <img src="https://img.shields.io/static/v1?label=FOSSEE%20Fellow&message=2020&color=orange&style=for-the-badge">
 </p>
-
-<img src="aboutme.gif" width="204px" height="240px" align="right">
-
-![image](https://user-images.githubusercontent.com/42486737/120118004-e0cd8380-c1ad-11eb-912f-f2b8425ba367.png)
-
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=felixfaisal&theme=dark" align="left" width="400px">
-<img src="https://github-readme-stats.vercel.app/api?username=felixfaisal&show_icons=true&theme=dark" align="right" width="400px">
-</p>
